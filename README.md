@@ -11,26 +11,7 @@
 </a>  
 </div>
 <br/>  
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none; width: 50%;">
-      <p>
-        - 👨‍🎓 I’m Computer Engineering Students
-        <br />
-        - 💻 I'm currently developing myself on React.js
-        <br />
-        - ❓ <a href="mailto:ayazyusuf7@icloud.com">Email</a> me for your questions
-      </p>
-    </td>
-    <td style="border: none; width: 50%;">
-      <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
-    </td>
-  </tr>
-</table>
-
-<br/>  
-
+  
 
 ## Languages and Tools  
 <div align="center">  
