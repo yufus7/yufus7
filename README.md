@@ -31,11 +31,6 @@
 ## Github Stats  
 <div align="center" style="width: 50%;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yufus7&show_icons=true&count_private=true&hide_border=true" align="center"  />
-
-</div>
-<div align="center" style="width: 50%;">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yufus7&hide_border=true&layout=compact" align="center"  />
 
 </div> 
